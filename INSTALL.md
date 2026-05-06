@@ -17,7 +17,7 @@
 
 ```bash
 # 1. 克隆仓库到任意位置
-git clone https://github.com/xuanbingbingo/claude-standard-dev-team.git
+git clone https://github.com/yinzhezq/claude-standard-dev-team.git
 cd claude-standard-dev-team
 
 # 2. 确保 ~/.claude/agents 目录存在
@@ -126,4 +126,4 @@ A: 主对话本身消耗很低（几千 token），但 orchestrator 内部会派
 
 ---
 
-有其他问题欢迎开 [Issue](https://github.com/xuanbingbingo/claude-standard-dev-team/issues)。
+有其他问题欢迎开 [Issue](https://github.com/yinzhezq/claude-standard-dev-team/issues)。

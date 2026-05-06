@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Claude Standard Dev Team" width="100%" />
+  <img src="assets/ai%20team.png" alt="Claude Standard Dev Team" width="100%" />
 </p>
 
 # Claude Standard Dev Team
@@ -103,7 +103,7 @@ Phase 11  → technical-writer     → README + API_DOC
 ### 1. 装入 Claude Code
 
 ```bash
-git clone https://github.com/xuanbingbingo/claude-standard-dev-team.git
+git clone https://github.com/yinzhezq/claude-standard-dev-team.git
 cp claude-standard-dev-team/agents/*.md ~/.claude/agents/
 ```
 
