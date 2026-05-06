@@ -175,14 +175,6 @@ orchestrator 会自动接管：扫描需求 → 调 product-manager 写 PRD → 
 
 ---
 
-## License
-
-[MIT](LICENSE) © 2026 斌哥-一人公司
-
-如果这套配置帮到你，欢迎在 GitHub 上给个 ⭐ —— 让更多 Claude Code 用户看见。
-
----
-
 ## 相关链接
 
 - [Claude Code 官方](https://claude.com/claude-code)
